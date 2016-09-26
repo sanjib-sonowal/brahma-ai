@@ -1,2 +1,2 @@
 # janki-ai
-My Python Test Project
+JANKI, my python test project for speech recognition and web search engine.
